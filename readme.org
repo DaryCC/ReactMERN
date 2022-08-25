@@ -1,7 +1,7 @@
 #+title: React: De cero a experto ( Hooks y MERN )
 #+description: Context API, MERN, Hooks, Firestore, JWT, Testing, Autenticaciones, Despliegues, CRUD, Logs, MUI, Multiple Routers...
 
-Ejercios y tareas del curso *React: De cero a experto ( Hooks y MERN )* de [[https://www.udemy.com/course/react-cero-experto/learn/lecture/19606276#overview][Udemy]] 
+Ejercios y tareas del curso *React: De cero a experto ( Hooks y MERN )* de [[https://www.udemy.com/course/react-cero-experto/][Udemy]] 
 * Temario :TOC:
 - [[#primeros-pasos][Primeros pasos]]
 
