@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 // import PropTypes from 'prop-types';
-import Hello,{Dary} from './HelloWorldApp';
-import {FirstApp  } from './FirstApp';
+// import Hello,{Dary} from './HelloWorldApp';
+// import {FirstApp  } from './FirstApp';
 import {CounterApp} from './CounterApp';
 
 import './style.css'

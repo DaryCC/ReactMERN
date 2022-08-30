@@ -8,8 +8,8 @@ html, body {
     /* padding-bottom:150px;
        padding-top:150px; */
 }
-#lista{
-
-    color:red;
-    border: yellow dotted;
+button{
+    padding: 15px;
+    background-color:grey;
+    margin-right:1.5em;
 }
