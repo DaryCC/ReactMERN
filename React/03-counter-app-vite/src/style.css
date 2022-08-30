@@ -1,0 +1,15 @@
+html, body {
+    background-color: #21232A;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.3rem;
+    /* border: yellow dotted; */
+    padding: 70px;
+    /* padding-bottom:150px;
+       padding-top:150px; */
+}
+#lista{
+
+    color:red;
+    border: yellow dotted;
+}
