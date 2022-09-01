@@ -4,7 +4,13 @@
 Ejercios y tareas del curso *React: De cero a experto ( Hooks y MERN )* de [[https://www.udemy.com/course/react-cero-experto/][Udemy]] 
 * Temario :TOC:
 - [[#primeros-pasos][Primeros pasos]]
+- [[#pruebas-unitarias-y-de-integracion][Pruebas unitarias y de integracion]]
+  - [[#3-pasos-aaa][3 pasos (AAA)]]
 
 * Primeros pasos
 
-
+* Pruebas unitarias y de integracion
+** 3 pasos (AAA)
+1.- Inicializacion(arrange)
+2.- Estimulo(act)
+3.- Observar el comportamiento(assert)
