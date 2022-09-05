@@ -36,7 +36,7 @@ FirstApp.propTypes = {
 };
 
 FirstApp.defaultProps = {
-  title: 'Títuto default',
+  // title: 'Títuto default',
   subtitle: 666,
   name: 'Nadia Barriga',
 }
