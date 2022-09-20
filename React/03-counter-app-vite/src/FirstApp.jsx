@@ -15,7 +15,7 @@ export const FirstApp = ({name,title,subtitle}) => {
 
   return (
     <>
-      <h1>{title} </h1>
+      <h1 data-testid='test-title'>{title}</h1>
       <p>Propiedad subtítulo: {subtitle}</p>
       <ul >
         <li>{newMessageFunction()}</li>
@@ -36,7 +36,7 @@ FirstApp.propTypes = {
 };
 
 FirstApp.defaultProps = {
-  // title: 'Títuto default',
+  title: 'Títuto default',
   subtitle: 666,
   name: 'Nadia Barriga',
 }
