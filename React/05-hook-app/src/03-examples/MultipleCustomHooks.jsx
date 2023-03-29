@@ -16,7 +16,11 @@ export const MultipleCustomHooks = () => {
   const { data, isLoading, hasError } = useFetch('https://dummyjson.com/quotes');
 
   // const {quote,author} = false;
-  const {quote,author}= !!data && data.quotes[counter];
+  // console.log(data[0].quote+' '+isLoading+' '+hasError);
+  // console.log(data.quotes[0]+'hahhahh');
+  // console.log(JSON.stringify(data));
+
+  const {quote,author}= !!data && data[counter];
 
 
 
@@ -27,12 +31,12 @@ export const MultipleCustomHooks = () => {
   // }
 
 
-  if (isLoading){
+  // if (isLoading){
 
-    return(
-      <h1>Cargando...</h1>
-    )
-  }
+  //   return(
+  //     <h1>Cargando...</h1>
+  //   )
+  // }
 
 
   return (
