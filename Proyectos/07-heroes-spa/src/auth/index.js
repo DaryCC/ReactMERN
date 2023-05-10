@@ -1,4 +1,4 @@
 export * from './context'
-export * from './types'
+export * from './types/types'
 
 export * from './pages'
